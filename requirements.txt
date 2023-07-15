@@ -1,6 +1,7 @@
 imageio==2.1.2
 numpy==1.14.5
-opencv-contrib-python==3.4.0.12
+protobuf==3.19.6
+opencv-contrib-python==3.4.1.15
 opencv-python==3.4.0.12
 pandas==0.20.1
 scipy==1.0.0
